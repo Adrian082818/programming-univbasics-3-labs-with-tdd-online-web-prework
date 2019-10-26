@@ -1,3 +1,3 @@
 def first_number 
-  puts "2"
+  puts "1"
 end
